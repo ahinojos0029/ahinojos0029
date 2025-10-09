@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java,bash,powershell" />
 
 ## Operating Systems
-<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,windows,debian,apple,redhat,mint,kali," />
+<img src="https://skillicons.dev/icons?i=windows,apple,linux,arch,ubuntu,debian,redhat,mint,kali," />
 
 ## Services and Tools
 <img src="https://skillicons.dev/icons?i=cloudflare,docker,aws,azure,git,vim,visualstudio,vscode,atom,pnpm,godot,eclipse,bootstrap,arduino" />
