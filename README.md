@@ -1,11 +1,23 @@
 # 👋 Hi there!
 
-My name is Armando. I am a full-stack developer, high school student, and teacher's assistant. I am interested in IT, motorsport, AI, and quantum physics. I like sim racing and taking apart devices I find at the junkyard in my free time.
+My name is Armando. I am a full-stack developer, high school student, and teacher's assistant. I am interested in PCs, IT, motorsport, AI, and quantum physics. I like sim racing and taking apart devices I find at the junkyard in my free time.
 
-## Daily Driver Laptops
-* HP Fortis 11 G9 Chromebook
+## Laptops (From most to least used)
 * Early 2011 Macbook Pro
+* HP Fortis 11 G9 Chromebook
 * Lenovo Thinkpad P50s
+
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java,bash,powershell" />
+
+## Operating Systems (Listed from most to least used)
+<img src="https://skillicons.dev/icons?i=arch,apple,windows,ubuntu,debian,redhat,mint,kali" />
+
+## Services and Tools
+<img src="https://skillicons.dev/icons?i=cloudflare,docker,aws,azure,git,vim,visualstudio,vscode,atom,pnpm,godot,eclipse,bootstrap,arduino" />
+
+## Used Social Media
+<img src="https://skillicons.dev/icons?i=discord,github,instagram,twitter,stackoverflow" />
 
 ## PC Specs
 [PCPartPicker Part List](https://pcpartpicker.com/list/D2DX4p)
@@ -21,15 +33,3 @@ Type|Item
 **Case** | [Fractal Design Focus 2 RGB ATX Mid Tower Case](https://pcpartpicker.com/product/zL3gXL/fractal-design-focus-2-rgb-atx-mid-tower-case-fd-c-foc2a-04)
 **Power Supply** | [Cooler Master MWE Gold 850 - V2 850 W 80+ Gold Certified Fully Modular ATX Power Supply](https://pcpartpicker.com/product/tWMTwP/cooler-master-mwe-gold-850-v2-850-w-80-gold-certified-fully-modular-atx-power-supply-mpe-8501-afaag-us)
 **Monitor** | [Samsung Odyssey G5 C34G55T 34.0" 3440 x 1440 165 Hz Curved Monitor](https://pcpartpicker.com/product/Fbt9TW/samsung-odyssey-g5-c34g55t-340-3440x1440-165-hz-monitor-lc34g55twwnxza)
-
-## Programming Languages
-<img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java,bash,powershell" />
-
-## Operating Systems (Listed from most to least used)
-<img src="https://skillicons.dev/icons?i=arch,apple,windows,ubuntu,debian,redhat,mint,kali" />
-
-## Services and Tools
-<img src="https://skillicons.dev/icons?i=cloudflare,docker,aws,azure,git,vim,visualstudio,vscode,atom,pnpm,godot,eclipse,bootstrap,arduino" />
-
-## Used Social Media
-<img src="https://skillicons.dev/icons?i=discord,github,instagram,twitter,stackoverflow" />
