@@ -3,9 +3,9 @@
 My name is Armando. I am a full-stack developer, high school student, and teacher's assistant. I am interested in PCs, IT, motorsport, AI, and quantum physics. I like sim racing and taking apart devices I find at the junkyard in my free time.
 
 ## Laptops (From most to least used)
-<img src="https://skillicons.dev/icons?i=apple" /> Early 2011 Macbook Pro
-<img src="https://skillicons.dev/icons?i=chrome" /> HP Fortis 11 G9 Chromebook
-<img src="https://skillicons.dev/icons?i=windows" /> Lenovo Thinkpad P50s
+* Early 2011 Macbook Pro
+* HP Fortis 11 G9 Chromebook
+* Lenovo Thinkpad P50s
 
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java,bash,powershell" />
