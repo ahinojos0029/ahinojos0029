@@ -5,6 +5,7 @@ My name is Armando. I am a full-stack developer, high school student, and teache
 ## Daily Driver Laptops
 * HP Fortis 11 G9 Chromebook
 * Early 2011 Macbook Pro
+* Lenovo Thinkpad P50s
 
 ## PC Specs
 [PCPartPicker Part List](https://pcpartpicker.com/list/D2DX4p)
