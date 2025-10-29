@@ -3,7 +3,7 @@
 My name is Armando. I am a full-stack developer, high school student, and teacher's assistant. I am interested in PCs, IT, motorsport, AI, and quantum physics. I like sim racing and taking apart devices I find at the junkyard in my free time.
 
 ## Laptops (From most to least used)
-* Early 2011 Macbook Pro
+* 2017 Macbook Pro (3.5GHz)
 * HP Fortis 11 G9 Chromebook
 * Lenovo Thinkpad P50s
 
