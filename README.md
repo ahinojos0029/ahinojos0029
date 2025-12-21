@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-My name is Armando. I am a full-stack developer, high school student, and teacher's assistant. I am interested in PCs, IT, motorsport, AI, and quantum physics. I like sim racing and taking apart devices I find at the junkyard in my free time.
+My name is Armando. I am a full-stack developer, high school student, and teacher's assistant. I am interested in quantum computing, IT, and motorsports. I like sim racing and taking apart devices I find at the junkyard in my free time.
 
 ## Laptops (From most to least used)
 * Mid 2017 Macbook Pro (3.5 GHz)
