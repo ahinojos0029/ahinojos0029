@@ -2,10 +2,6 @@
 
 My name is Armando. I am a full-stack developer and high school student. I am interested in IT and motorsports. I like sim racing and taking apart devices I find at the junkyard in my free time.
 
-## Laptops (From most to least used)
-* Mid 2017 Macbook Pro (3.5 GHz)
-* Lenovo Thinkpad P50s
-
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java,bash,powershell" />
 
