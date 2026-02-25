@@ -27,4 +27,3 @@ Type|Item
 **Video Card** | [Gigabyte GAMING OC Radeon RX 9060 XT 16 GB Video Card](https://pcpartpicker.com/product/TcG2FT/gigabyte-gaming-oc-radeon-rx-9060-xt-16-gb-video-card-gv-r9060xtgaming-oc-16gd)
 **Case** | [Fractal Design Focus 2 RGB ATX Mid Tower Case](https://pcpartpicker.com/product/zL3gXL/fractal-design-focus-2-rgb-atx-mid-tower-case-fd-c-foc2a-04)
 **Power Supply** | [Cooler Master MWE Gold 850 - V2 850 W 80+ Gold Certified Fully Modular ATX Power Supply](https://pcpartpicker.com/product/tWMTwP/cooler-master-mwe-gold-850-v2-850-w-80-gold-certified-fully-modular-atx-power-supply-mpe-8501-afaag-us)
-**Monitor** | [Samsung Odyssey G5 C34G55T 34.0" 3440 x 1440 165 Hz Curved Monitor](https://pcpartpicker.com/product/Fbt9TW/samsung-odyssey-g5-c34g55t-340-3440x1440-165-hz-monitor-lc34g55twwnxza)
