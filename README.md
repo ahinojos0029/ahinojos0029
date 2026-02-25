@@ -6,7 +6,7 @@ My name is Armando. I am a full-stack developer and high school student. I am in
 <img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java,bash,powershell" />
 
 ## Operating Systems (Listed from most to least used)
-<img src="https://skillicons.dev/icons?i=arch,apple,windows,ubuntu,debian,redhat,mint,kali" />
+<img src="https://skillicons.dev/icons?i=windows,apple,arch,ubuntu,debian,redhat,mint,kali" />
 
 ## Services and Tools
 <img src="https://skillicons.dev/icons?i=cloudflare,docker,aws,azure,git,vim,visualstudio,vscode,atom,pnpm,godot,eclipse,bootstrap,arduino" />
