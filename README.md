@@ -5,11 +5,11 @@ My name is Armando. I am a full-stack developer and high school student. I am in
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=nim,html,css,python,js,c,cs,java,bash,powershell" />
 
-## Operating Systems (Listed from most to least used)
+## Operating Systems
 <img src="https://skillicons.dev/icons?i=windows,apple,arch,ubuntu,debian,redhat,mint,kali" />
 
 ## Services and Tools
-<img src="https://skillicons.dev/icons?i=cloudflare,docker,aws,azure,git,vim,visualstudio,vscode,atom,pnpm,godot,eclipse,bootstrap,arduino" />
+<img src="https://skillicons.dev/icons?i=cloudflare,docker,aws,azure,git,visualstudio,vscode,pnpm,arduino" />
 
 ## Used Social Media
 <img src="https://skillicons.dev/icons?i=discord,github,instagram,twitter,stackoverflow" />
